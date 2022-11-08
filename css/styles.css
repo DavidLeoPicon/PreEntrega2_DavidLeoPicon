@@ -236,7 +236,7 @@ html {
     grid-column: span 3;
 }
 
-.footer > .pFooter {
+.footer > .pFooter { 
     grid-column: span 3;
 }
 
@@ -246,8 +246,6 @@ html {
     justify-self: flex-end;
     margin-right: 9rem;
 }
-
-
 
 #fContact {
     text-decoration: none;
